@@ -1,6 +1,7 @@
 {
-  "name": "bower.json",
-  "description": "json",
+  "name": "global-component",
+  "version": "0.1.0",
+  "description": "Global WEb Component",
   "main": "",
   "authors": [
     "Supriya <supriya@learnapp.co>"
